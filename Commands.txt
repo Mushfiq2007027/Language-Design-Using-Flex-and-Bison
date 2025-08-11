@@ -1,0 +1,9 @@
+/*Please copy the following commands and paste on the command prompt to run bison and flex files*/
+
+bison -d mushfiq027.y
+
+flex mushfiq027.l
+
+gcc mushfiq027.tab.c lex.yy.c -o output
+
+output

@@ -1,0 +1,97 @@
+
+This is comment: **-Directives-**
+Directive Included
+Directive Included
+
+This is comment: **-Declarations and assignment-**
+u declared with value 6  
+v declared with value 5  
+b declared with value 10  
+d declared with value 1  
+e declared with value 9  
+a declared
+c declared
+12 is assigned to c
+di declared with value 8.900000
+
+This is comment: **-Input-**
+Input taken for a
+
+This is comment: **-Output-**
+Value of b is : 10
+printed:  Mushfiq2007027 
+
+This is comment: **-Basic Arithmetic Operations-**
+summation declared
+difference declared
+product declared
+division declared
+11 is assigned to summation
+Value of summation is : 11
+1 is assigned to difference
+Value of difference is : 1
+30 is assigned to product
+Value of product is : 30
+1 is assigned to division
+Value of division is : 1
+
+This is comment: **-User defined function-**
+
+This is comment: **-Function Call-**
+
+This is comment: **-mathematical functions-**
+3 is a prime number.
+10 is not a prime number.
+1 is neither prime nor composite.
+4 is even
+7 is odd
+sin(150) is 0.50115
+cos(45) is 0.70739
+tan(45) is 0.99920
+log(150) is 5.01064
+square root of 625 is 25.000000
+power of 5^7 is 78125
+G.C.D of 24 and 36 is 12
+G.C.D of 11 and 17 is 1
+
+This is comment: **-for loop-**
+Value of b is : 10
+
+for loop started
+Iteration no: 1 
+Iteration no: 2 
+Iteration no: 3 
+for loop ended
+
+This is comment: **-while loop-**
+flt declared
+
+Iteration no: 1 
+Iteration no: 2 
+Iteration no: 3 
+Iteration no: 4 
+Iteration no: 5 
+
+This is comment: **-If Conditions-**
+If block: True
+Value of d is : 1
+If block: False
+kl declared with value 9.800000
+t4 declared
+If block executed
+Else block: False
+If block executed
+
+This is comment: **-Switch case Conditions-**
+case 4 is false 
+11 is assigned to d
+statement
+b
+case 2 is false 
+12 is assigned to d
+statement
+b
+Default case 
+13 is assigned to d
+switch block ended
+Succesfully Compiled!
